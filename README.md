@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img  src="https://i.hizliresim.com/9fpqdv9.png">
+  <img  src="https://i.hizliresim.com/4ryxcwy.png">
 </p>
 
 ## How to use
