@@ -12,7 +12,7 @@
 	position: absolute;
 	right: 1vh;
 	text-align: center;
-    font-family: var(--font);
+    	font-family: var(--font);
 }
 
 .notifytext {
