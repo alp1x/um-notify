@@ -1,5 +1,5 @@
 window.addEventListener("message", function(event) {
-    let types = ["success", "warning", "error", "info"]
+    let types = ["success","warning","error","info"]
     $(".notify-main").fadeIn().append(
         `<div class='notifytext'><i class='fas fa-${event.data.icon}'></i><p>${event.data.message}</p></div>`
     );
